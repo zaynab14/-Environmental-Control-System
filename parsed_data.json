@@ -1,0 +1,3 @@
+{
+"parsed_data": { "location": { "name": "Oslo", "region": "Oslo", "country": "Norway", "lat": 59.92, "lon": 10.75, "tz_id": "Europe\/Oslo", "localtime_epoch": 1705009675, "localtime": "2024-01-11 22:47" }, "current": { "last_updated_epoch": 1705009500, "last_updated": "2024-01-11 22:45", "temp_c": -1.0, "temp_f": 30.2, "is_day": 0, "condition": { "text": "Clear", "icon": "\/\/cdn.weatherapi.com\/weather\/64x64\/night\/113.png", "code": 1000 }, "wind_mph": 4.3, "wind_kph": 6.8, "wind_degree": 270, "wind_dir": "W", "pressure_mb": 1028.0, "pressure_in": 30.36, "precip_mm": 0.0, "precip_in": 0.0, "humidity": 69, "cloud": 0, "feelslike_c": -3.1, "feelslike_f": 26.5, "vis_km": 10.0, "vis_miles": 6.0, "uv": 1.0, "gust_mph": 7.5, "gust_kph": 12.1 } }
+}

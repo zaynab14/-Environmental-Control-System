@@ -1,0 +1,2162 @@
+Time: 2024-01-06 09:48:55
+Location: Karachi, Pakistan
+Last Updated: 2023-12-31 20:15
+Temperature: 21.00°C / 69.80°F
+Condition: Mist
+Wind: 3.80 mph / 6.10 kph, Direction: 50° NE
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 28%
+Cloud Cover: 0%
+Feels Like: 21.00°C / 69.80°F
+Visibility: 4.00 km / 2.00 miles
+UV Index: 1.00
+Wind Gust: 9.50 mph / 15.20 kph
+
+Time: 2024-01-06 09:54:24
+Location: London, United Kingdom
+Last Updated: 2024-01-06 05:00
+Temperature: 6.00°C / 42.80°F
+Condition: Overcast
+Wind: 6.90 mph / 11.20 kph, Direction: 30° NNE
+Pressure: 1012.00 mb / 29.88 inHg
+Precipitation: 0.01 mm / 0.00 in
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 4.10°C / 39.30°F
+Visibility: 10.00 km / 6.00 miles
+UV Index: 1.00
+Wind Gust: 8.00 mph / 12.90 kph
+
+Time: 2024-01-06 10:11:11
+Location: London, United Kingdom
+Last Updated: 2024-01-06 05:00
+Temperature: 6.00°C / 42.80°F
+Condition: Overcast
+Wind: 6.90 mph / 11.20 kph, Direction: 30° NNE
+Pressure: 1012.00 mb / 29.88 inHg
+Precipitation: 0.01 mm / 0.00 in
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 4.10°C / 39.30°F
+Visibility: 10.00 km / 6.00 miles
+UV Index: 1.00
+Wind Gust: 8.00 mph / 12.90 kph
+
+Time: 2024-01-06 12:19:04
+Location: London, United Kingdom
+Last Updated: 2024-01-06 07:15
+Temperature: 5.00°C / 41.00°F
+Condition: Partly cloudy
+Wind: 3.80 mph / 6.10 kph, Direction: 340° NNW
+Pressure: 1013.00 mb / 29.91 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 93%
+Cloud Cover: 75%
+Feels Like: 2.60°C / 36.60°F
+Visibility: 10.00 km / 6.00 miles
+UV Index: 1.00
+Wind Gust: 9.30 mph / 15.00 kph
+
+Time: 2024-01-06 12:34:02
+Location: London, United Kingdom
+Last Updated: 2024-01-06 07:30
+Temperature: 5.00°C / 41.00°F
+Condition: Partly cloudy
+Wind: 3.80 mph / 6.10 kph, Direction: 340° NNW
+Pressure: 1013.00 mb / 29.91 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 93%
+Cloud Cover: 75%
+Feels Like: 2.60°C / 36.60°F
+Visibility: 10.00 km / 6.00 miles
+UV Index: 1.00
+Wind Gust: 9.30 mph / 15.00 kph
+
+Time: 2024-01-06 12:58:57
+Location: London, United Kingdom
+Last Updated: 2024-01-06 07:45
+Temperature: 5.00°C / 41.00°F
+Condition: Overcast
+Wind: 4.30 mph / 6.80 kph, Direction: 330° NNW
+Pressure: 1014.00 mb / 29.94 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 2.60°C / 36.60°F
+Visibility: 10.00 km / 6.00 miles
+UV Index: 1.00
+Wind Gust: 9.30 mph / 15.00 kph
+
+Time: 2024-01-06 13:01:37
+Location: (null), (null)
+Last Updated: (null)
+Temperature: 0.00°C / 0.00°F
+Condition: (null)
+Wind: 0.00 mph / 0.00 kph, Direction: 0° (nul
+Pressure: 0.00 mb / 0.00 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 0%
+Cloud Cover: 0%
+Feels Like: 0.00°C / 0.00°F
+Visibility: 0.00 km / 0.00 miles
+UV Index: 0.00
+Wind Gust: 0.00 mph / 0.00 kph
+
+Time: 2024-01-06 13:10:01
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 13:00
+Temperature: 23.00°C / 73.40°F
+Condition: Mist
+Wind: 13.60 mph / 22.00 kph, Direction: 70° ENE
+Pressure: 1019.00 mb / 30.09 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 36%
+Cloud Cover: 50%
+Feels Like: 24.20°C / 75.60°F
+Visibility: 4.00 km / 2.00 miles
+UV Index: 6.00
+Wind Gust: 15.10 mph / 24.30 kph
+
+Time: 2024-01-06 14:10:06
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 14:00
+Temperature: 24.00°C / 75.20°F
+Condition: Mist
+Wind: 10.50 mph / 16.90 kph, Direction: 60° ENE
+Pressure: 1018.00 mb / 30.06 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 34%
+Cloud Cover: 50%
+Feels Like: 24.70°C / 76.40°F
+Visibility: 4.00 km / 2.00 miles
+UV Index: 6.00
+Wind Gust: 13.10 mph / 21.00 kph
+
+Time: 2024-01-06 14:27:37
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 14:15
+Temperature: 24.00°C / 75.20°F
+Condition: Mist
+Wind: 10.50 mph / 16.90 kph, Direction: 60° ENE
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 34%
+Cloud Cover: 25%
+Feels Like: 24.70°C / 76.40°F
+Visibility: 4.00 km / 2.00 miles
+UV Index: 6.00
+Wind Gust: 13.10 mph / 21.00 kph
+
+Time: 2024-01-06 14:41:18
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 14:30
+Temperature: 24.00°C / 75.20°F
+Condition: Mist
+Wind: 13.60 mph / 22.00 kph, Direction: 70° ENE
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 34%
+Cloud Cover: 25%
+Feels Like: 24.70°C / 76.40°F
+Visibility: 4.00 km / 2.00 miles
+UV Index: 6.00
+Wind Gust: 18.10 mph / 29.20 kph
+
+Time: 2024-01-06 16:39:49
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 16:30
+Temperature: 24.00°C / 75.20°F
+Condition: Sunny
+Wind: 9.40 mph / 15.10 kph, Direction: 60° ENE
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 31%
+Cloud Cover: 0%
+Feels Like: 24.80°C / 76.60°F
+Visibility: 6.00 km / 3.00 miles
+UV Index: 6.00
+Wind Gust: 10.30 mph / 16.60 kph
+
+Time: 2024-01-06 16:41:18
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 16:30
+Temperature: 24.00°C / 75.20°F
+Condition: Sunny
+Wind: 9.40 mph / 15.10 kph, Direction: 60° ENE
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 31%
+Cloud Cover: 0%
+Feels Like: 24.80°C / 76.60°F
+Visibility: 6.00 km / 3.00 miles
+UV Index: 6.00
+Wind Gust: 10.30 mph / 16.60 kph
+
+Time: 2024-01-06 16:46:02
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 16:45
+Temperature: 24.00°C / 75.20°F
+Condition: Sunny
+Wind: 9.40 mph / 15.10 kph, Direction: 60° ENE
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 31%
+Cloud Cover: 0%
+Feels Like: 24.80°C / 76.60°F
+Visibility: 6.00 km / 3.00 miles
+UV Index: 6.00
+Wind Gust: 10.30 mph / 16.60 kph
+
+Time: 2024-01-06 16:57:04
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 16:45
+Temperature: 24.00°C / 75.20°F
+Condition: Sunny
+Wind: 9.40 mph / 15.10 kph, Direction: 60° ENE
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 31%
+Cloud Cover: 0%
+Feels Like: 24.80°C / 76.60°F
+Visibility: 6.00 km / 3.00 miles
+UV Index: 6.00
+Wind Gust: 10.30 mph / 16.60 kph
+
+Time: 2024-01-06 17:18:00
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 17:15
+Temperature: 24.00°C / 75.20°F
+Condition: Sunny
+Wind: 9.40 mph / 15.10 kph, Direction: 90° E
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 31%
+Cloud Cover: 0%
+Feels Like: 24.80°C / 76.60°F
+Visibility: 6.00 km / 3.00 miles
+UV Index: 6.00
+Wind Gust: 12.50 mph / 20.10 kph
+
+Time: 2024-01-06 17:29:43
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 17:15
+Temperature: 24.00°C / 75.20°F
+Condition: Sunny
+Wind: 9.40 mph / 15.10 kph, Direction: 90° E
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 31%
+Cloud Cover: 0%
+Feels Like: 24.80°C / 76.60°F
+Visibility: 6.00 km / 3.00 miles
+UV Index: 6.00
+Wind Gust: 12.50 mph / 20.10 kph
+
+Time: 2024-01-06 18:06:12
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 18:00
+Temperature: 23.00°C / 73.40°F
+Condition: Clear
+Wind: 11.90 mph / 19.10 kph, Direction: 90° E
+Pressure: 1017.00 mb / 30.03 inHg
+Precipitation: 0.00 mm / 0.00 in
+Humidity: 33%
+Cloud Cover: 0%
+Feels Like: 24.40°C / 75.90°F
+Visibility: 6.00 km / 3.00 miles
+UV Index: 1.00
+Wind Gust: 15.70 mph / 25.20 kph
+
+Time: 2024-01-06 19:00:39
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 18:45
+Temperature: 22.00°C
+Condition: Clear
+Wind: 9.40 mph, E
+Pressure: 1018.00 mb
+Humidity: 35%
+Cloud Cover: 0%
+Feels Like: 24.10°C
+UV Index: 1.00
+Wind Gust: 15.70 mph
+
+Time: 2024-01-06 19:21:29
+Location: Karachi, Pakistan
+Last Updated: 2024-01-06 19:15
+Temperature: 21.00°C
+Condition: Clear
+Wind: 11.90 mph, E
+Pressure: 1018.00 mb
+Humidity: 38%
+Cloud Cover: 0%
+Feels Like: 21.00°C
+UV Index: 1.00
+Wind Gust: 18.00 mph
+
+Time: 2024-01-06 19:47:10
+Location: (null), (null)
+Last Updated: (null)
+Temperature: 0.00°C
+Condition: (null)
+Wind: 0.00 mph, (nul
+Pressure: 0.00 mb
+Humidity: 0%
+Cloud Cover: 0%
+Feels Like: 0.00°C
+UV Index: 0.00
+Wind Gust: 0.00 mph
+
+Time: 2024-01-06 20:01:14
+Location: London, United Kingdom
+Last Updated: 2024-01-06 14:45
+Temperature: 6.00°C
+Condition: Partly cloudy
+Wind: 8.10 mph, N
+Pressure: 1017.00 mb
+Humidity: 81%
+Cloud Cover: 50%
+Feels Like: 3.60°C
+UV Index: 2.00
+Wind Gust: 9.70 mph
+
+Time: 2024-01-06 20:23:00
+Location: London, United Kingdom
+Last Updated: 2024-01-06 15:15
+Temperature: 6.00°C
+Condition: Partly cloudy
+Wind: 5.60 mph, NNW
+Pressure: 1018.00 mb
+Humidity: 81%
+Cloud Cover: 50%
+Feels Like: 3.50°C
+UV Index: 2.00
+Wind Gust: 10.10 mph
+
+Time: 2024-01-06 20:23:53
+Location: London, United Kingdom
+Last Updated: 2024-01-06 15:15
+Temperature: 6.00°C
+Condition: Partly cloudy
+Wind: 5.60 mph, NNW
+Pressure: 1018.00 mb
+Humidity: 81%
+Cloud Cover: 50%
+Feels Like: 3.50°C
+UV Index: 2.00
+Wind Gust: 10.10 mph
+
+Time: 2024-01-06 20:30:12
+Location: London, United Kingdom
+Last Updated: 2024-01-06 15:15
+Temperature: 6.00°C
+Condition: Partly cloudy
+Wind: 5.60 mph, NNW
+Pressure: 1018.00 mb
+Humidity: 81%
+Cloud Cover: 50%
+Feels Like: 3.50°C
+UV Index: 2.00
+Wind Gust: 10.10 mph
+
+Time: 2024-01-06 20:44:30
+Location: London, United Kingdom
+Last Updated: 2024-01-06 15:30
+Temperature: 6.00°C
+Condition: Partly cloudy
+Wind: 8.10 mph, N
+Pressure: 1018.00 mb
+Humidity: 81%
+Cloud Cover: 50%
+Feels Like: 3.50°C
+UV Index: 2.00
+Wind Gust: 10.10 mph
+
+Time: 2024-01-06 21:00:48
+Location: London, United Kingdom
+Last Updated: 2024-01-06 15:45
+Temperature: 6.00°C
+Condition: Partly cloudy
+Wind: 8.10 mph, N
+Pressure: 1018.00 mb
+Humidity: 81%
+Cloud Cover: 50%
+Feels Like: 3.50°C
+UV Index: 2.00
+Wind Gust: 10.10 mph
+
+Time: 2024-01-06 21:30:55
+Location: London, United Kingdom
+Last Updated: 2024-01-06 16:15
+Temperature: 6.00°C
+Condition: Light rain
+Wind: 9.40 mph, NNE
+Pressure: 1018.00 mb
+Humidity: 75%
+Cloud Cover: 25%
+Feels Like: 3.40°C
+UV Index: 2.00
+Wind Gust: 10.60 mph
+
+Time: 2024-01-06 21:34:28
+Location: London, United Kingdom
+Last Updated: 2024-01-06 16:30
+Temperature: 5.00°C
+Condition: Partly cloudy
+Wind: 4.30 mph, N
+Pressure: 1019.00 mb
+Humidity: 81%
+Cloud Cover: 50%
+Feels Like: 2.20°C
+UV Index: 2.00
+Wind Gust: 10.60 mph
+
+Time: 2024-01-07 01:03:40
+Location: London, United Kingdom
+Last Updated: 2024-01-06 20:00
+Temperature: 5.00°C
+Condition: Overcast
+Wind: 4.30 mph, N
+Pressure: 1020.00 mb
+Humidity: 87%
+Cloud Cover: 100%
+Feels Like: 2.00°C
+UV Index: 1.00
+Wind Gust: 11.90 mph
+
+Time: 2024-01-07 01:07:28
+Location: London, United Kingdom
+Last Updated: 2024-01-06 20:00
+Temperature: 5.00°C
+Condition: Overcast
+Wind: 4.30 mph, N
+Pressure: 1020.00 mb
+Humidity: 87%
+Cloud Cover: 100%
+Feels Like: 2.00°C
+UV Index: 1.00
+Wind Gust: 11.90 mph
+
+Time: 2024-01-07 01:08:53
+Location: London, United Kingdom
+Last Updated: 2024-01-06 20:00
+Temperature: 5.00°C
+Condition: Overcast
+Wind: 4.30 mph, N
+Pressure: 1020.00 mb
+Humidity: 87%
+Cloud Cover: 100%
+Feels Like: 2.00°C
+UV Index: 1.00
+Wind Gust: 11.90 mph
+
+Time: 2024-01-07 01:11:09
+Location: London, United Kingdom
+Last Updated: 2024-01-06 20:00
+Temperature: 5.00°C
+Condition: Overcast
+Wind: 4.30 mph, N
+Pressure: 1020.00 mb
+Humidity: 87%
+Cloud Cover: 100%
+Feels Like: 2.00°C
+UV Index: 1.00
+Wind Gust: 11.90 mph
+
+Time: 2024-01-07 01:48:05
+Location: London, United Kingdom
+Last Updated: 2024-01-06 20:45
+Temperature: 5.00°C
+Condition: Partly cloudy
+Wind: 3.80 mph, N
+Pressure: 1021.00 mb
+Humidity: 81%
+Cloud Cover: 75%
+Feels Like: 2.00°C
+UV Index: 1.00
+Wind Gust: 11.90 mph
+
+Time: 2024-01-07 01:48:51
+Location: London, United Kingdom
+Last Updated: 2024-01-06 20:45
+Temperature: 5.00°C
+Condition: Partly cloudy
+Wind: 3.80 mph, N
+Pressure: 1021.00 mb
+Humidity: 81%
+Cloud Cover: 75%
+Feels Like: 2.00°C
+UV Index: 1.00
+Wind Gust: 11.90 mph
+
+Time: 2024-01-07 02:05:04
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:00
+Temperature: 4.00°C
+Condition: Partly cloudy
+Wind: 5.60 mph, N
+Pressure: 1021.00 mb
+Humidity: 87%
+Cloud Cover: 75%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:05:50
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:00
+Temperature: 4.00°C
+Condition: Partly cloudy
+Wind: 5.60 mph, N
+Pressure: 1021.00 mb
+Humidity: 87%
+Cloud Cover: 75%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:06:35
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:00
+Temperature: 4.00°C
+Condition: Partly cloudy
+Wind: 5.60 mph, N
+Pressure: 1021.00 mb
+Humidity: 87%
+Cloud Cover: 75%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:18:46
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:15
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 4.30 mph, N
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:19:19
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:15
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 4.30 mph, N
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:24:08
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:15
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 4.30 mph, N
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:25:29
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:15
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 4.30 mph, N
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:51:24
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:52:30
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:57:59
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:58:38
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 02:58:50
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:02:48
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:15
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:15
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:15
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:15
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:16
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:16
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:16
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:16
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:16
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:16
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:17
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:17
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:17
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:17
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:18
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:18
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:18
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:18
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:18
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:19
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:19
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:19
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:19
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:19
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:20
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:20
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:20
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:20
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:20
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:21
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:21
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:21
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:21
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:21
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:21
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:22
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:22
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:22
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:22
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:22
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:23
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:23
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:23
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:23
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:24
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:24
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:25
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:25
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:03:25
+Location: London, United Kingdom
+Last Updated: 2024-01-06 21:45
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.00°C
+UV Index: 1.00
+Wind Gust: 11.20 mph
+
+Time: 2024-01-07 03:06:44
+Location: London, United Kingdom
+Last Updated: 2024-01-06 22:00
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.10°C
+UV Index: 1.00
+Wind Gust: 10.90 mph
+
+Time: 2024-01-07 03:07:08
+Location: London, United Kingdom
+Last Updated: 2024-01-06 22:00
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.10°C
+UV Index: 1.00
+Wind Gust: 10.90 mph
+
+Time: 2024-01-07 03:07:09
+Location: London, United Kingdom
+Last Updated: 2024-01-06 22:00
+Temperature: 4.00°C
+Condition: Overcast
+Wind: 5.60 mph, NNW
+Pressure: 1021.00 mb
+Humidity: 93%
+Cloud Cover: 100%
+Feels Like: 1.10°C
+UV Index: 1.00
+Wind Gust: 10.90 mph
+
+Time: 2024-01-07 13:00:13
+Location: London, United Kingdom
+Last Updated: 2024-01-07 07:45
+Temperature: 3.00°C
+Condition: Partly cloudy
+Wind: 10.50 mph, N
+Pressure: 1025.00 mb
+Humidity: 75%
+Cloud Cover: 75%
+Feels Like: -0.80°C
+UV Index: 1.00
+Wind Gust: 14.00 mph
+
+Time: 2024-01-07 13:00:59
+Location: London, United Kingdom
+Last Updated: 2024-01-07 07:45
+Temperature: 3.00°C
+Condition: Partly cloudy
+Wind: 10.50 mph, N
+Pressure: 1025.00 mb
+Humidity: 75%
+Cloud Cover: 75%
+Feels Like: -0.80°C
+UV Index: 1.00
+Wind Gust: 14.00 mph
+
+Time: 2024-01-07 13:00:59
+Location: London, United Kingdom
+Last Updated: 2024-01-07 07:45
+Temperature: 3.00°C
+Condition: Partly cloudy
+Wind: 10.50 mph, N
+Pressure: 1025.00 mb
+Humidity: 75%
+Cloud Cover: 75%
+Feels Like: -0.80°C
+UV Index: 1.00
+Wind Gust: 14.00 mph
+
+Time: 2024-01-07 13:20:47
+Location: London, United Kingdom
+Last Updated: 2024-01-07 08:15
+Temperature: 3.00°C
+Condition: Partly cloudy
+Wind: 11.90 mph, N
+Pressure: 1026.00 mb
+Humidity: 75%
+Cloud Cover: 50%
+Feels Like: -0.80°C
+UV Index: 1.00
+Wind Gust: 14.10 mph
+
+Time: 2024-01-07 13:21:25
+Location: London, United Kingdom
+Last Updated: 2024-01-07 08:15
+Temperature: 3.00°C
+Condition: Partly cloudy
+Wind: 11.90 mph, N
+Pressure: 1026.00 mb
+Humidity: 75%
+Cloud Cover: 50%
+Feels Like: -0.80°C
+UV Index: 1.00
+Wind Gust: 14.10 mph
+
+Time: 2024-01-08 10:58:11
+Location: London, United Kingdom
+Last Updated: 2024-01-08 05:45
+Temperature: 3.00°C
+Condition: Overcast
+Wind: 10.50 mph, NE
+Pressure: 1032.00 mb
+Humidity: 65%
+Cloud Cover: 100%
+Feels Like: -0.50°C
+UV Index: 1.00
+Wind Gust: 13.20 mph
+
+Time: 2024-01-08 23:05:06
+Location: Oslo, Norway
+Last Updated: 2024-01-08 19:00
+Temperature: -19.00°C
+Condition: Clear
+Wind: 2.20 mph, N
+Pressure: 1038.00 mb
+Humidity: 84%
+Cloud Cover: 0%
+Feels Like: -22.60°C
+UV Index: 1.00
+Wind Gust: 5.60 mph
+
+Time: 2024-01-08 23:08:51
+Location: Oslo, Norway
+Last Updated: 2024-01-08 19:00
+Temperature: -19.00°C
+Condition: Clear
+Wind: 2.20 mph, N
+Pressure: 1038.00 mb
+Humidity: 84%
+Cloud Cover: 0%
+Feels Like: -22.60°C
+UV Index: 1.00
+Wind Gust: 5.60 mph
+
+Time: 2024-01-09 00:40:25
+Location: Oslo, Norway
+Last Updated: 2024-01-08 20:30
+Temperature: -19.00°C
+Condition: Partly cloudy
+Wind: 2.50 mph, NNE
+Pressure: 1038.00 mb
+Humidity: 77%
+Cloud Cover: 25%
+Feels Like: -22.30°C
+UV Index: 1.00
+Wind Gust: 5.20 mph
+
+Time: 2024-01-09 00:53:47
+Location: Oslo, Norway
+Last Updated: 2024-01-08 20:45
+Temperature: -19.00°C
+Condition: Partly cloudy
+Wind: 2.50 mph, NNE
+Pressure: 1038.00 mb
+Humidity: 77%
+Cloud Cover: 25%
+Feels Like: -22.30°C
+UV Index: 1.00
+Wind Gust: 5.20 mph
+
+Time: 2024-01-09 10:12:38
+Location: Alaska, Mexico
+Last Updated: 2024-01-08 23:00
+Temperature: 19.00°C
+Condition: Patchy rain possible
+Wind: 7.20 mph, SSW
+Pressure: 1013.00 mb
+Humidity: 93%
+Cloud Cover: 60%
+Feels Like: 19.10°C
+UV Index: 1.00
+Wind Gust: 12.00 mph
+
+Time: 2024-01-09 10:41:24
+Location: Alaska, Mexico
+Last Updated: 2024-01-08 23:30
+Temperature: 19.00°C
+Condition: Patchy rain possible
+Wind: 7.20 mph, SSW
+Pressure: 1013.00 mb
+Humidity: 93%
+Cloud Cover: 60%
+Feels Like: 19.10°C
+UV Index: 1.00
+Wind Gust: 12.00 mph
+
+Time: 2024-01-09 10:51:10
+Location: Alaska, Mexico
+Last Updated: 2024-01-08 23:45
+Temperature: 19.00°C
+Condition: Patchy rain possible
+Wind: 7.20 mph, SSW
+Pressure: 1013.00 mb
+Humidity: 93%
+Cloud Cover: 60%
+Feels Like: 19.10°C
+UV Index: 1.00
+Wind Gust: 12.00 mph
+
+Time: 2024-01-09 10:54:41
+Location: Alaska, Mexico
+Last Updated: 2024-01-08 23:45
+Temperature: 19.00°C
+Condition: Patchy rain possible
+Wind: 7.20 mph, SSW
+Pressure: 1013.00 mb
+Humidity: 93%
+Cloud Cover: 60%
+Feels Like: 19.10°C
+UV Index: 1.00
+Wind Gust: 12.00 mph
+
+Time: 2024-01-09 11:29:35
+Location: Oslo, Norway
+Last Updated: 2024-01-09 07:15
+Temperature: -19.00°C
+Condition: Partly cloudy
+Wind: 2.20 mph, NNW
+Pressure: 1035.00 mb
+Humidity: 84%
+Cloud Cover: 50%
+Feels Like: -22.60°C
+UV Index: 1.00
+Wind Gust: 5.60 mph
+
+Time: 2024-01-09 11:44:10
+Location: Oslo, Norway
+Last Updated: 2024-01-09 07:30
+Temperature: -19.00°C
+Condition: Partly cloudy
+Wind: 2.20 mph, N
+Pressure: 1035.00 mb
+Humidity: 84%
+Cloud Cover: 50%
+Feels Like: -22.60°C
+UV Index: 1.00
+Wind Gust: 5.60 mph
+
+Time: 2024-01-09 12:12:02
+Location: Oslo, Norway
+Last Updated: 2024-01-09 08:00
+Temperature: -19.00°C
+Condition: Partly cloudy
+Wind: 2.20 mph, N
+Pressure: 1035.00 mb
+Humidity: 84%
+Cloud Cover: 50%
+Feels Like: -22.90°C
+UV Index: 1.00
+Wind Gust: 6.10 mph
+
+Time: 2024-01-09 14:16:52
+Location: Oslo, Norway
+Last Updated: 2024-01-09 10:15
+Temperature: -14.00°C
+Condition: Partly cloudy
+Wind: 2.20 mph, NW
+Pressure: 1035.00 mb
+Humidity: 92%
+Cloud Cover: 75%
+Feels Like: -17.70°C
+UV Index: 2.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-09 14:19:50
+Location: Oslo, Norway
+Last Updated: 2024-01-09 10:15
+Temperature: -14.00°C
+Condition: Partly cloudy
+Wind: 2.20 mph, NW
+Pressure: 1035.00 mb
+Humidity: 92%
+Cloud Cover: 75%
+Feels Like: -17.70°C
+UV Index: 2.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-09 15:35:45
+Location: Oslo, Norway
+Last Updated: 2024-01-09 11:30
+Temperature: -13.00°C
+Condition: Sunny
+Wind: 2.20 mph, NW
+Pressure: 1035.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -16.10°C
+UV Index: 2.00
+Wind Gust: 6.10 mph
+
+Time: 2024-01-09 15:39:29
+Location: Oslo, Norway
+Last Updated: 2024-01-09 11:30
+Temperature: -13.00°C
+Condition: Sunny
+Wind: 2.20 mph, NW
+Pressure: 1035.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -16.10°C
+UV Index: 2.00
+Wind Gust: 6.10 mph
+
+Time: 2024-01-09 15:44:20
+Location: Oslo, Norway
+Last Updated: 2024-01-09 11:30
+Temperature: -13.00°C
+Condition: Sunny
+Wind: 2.20 mph, NW
+Pressure: 1035.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -16.10°C
+UV Index: 2.00
+Wind Gust: 6.10 mph
+
+Time: 2024-01-09 23:16:20
+Location: Oslo, Norway
+Last Updated: 2024-01-09 19:00
+Temperature: -10.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1034.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -13.40°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-09 23:29:16
+Location: Oslo, Norway
+Last Updated: 2024-01-09 19:15
+Temperature: -10.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1034.00 mb
+Humidity: 92%
+Cloud Cover: 0%
+Feels Like: -13.40°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-09 23:32:30
+Location: Oslo, Norway
+Last Updated: 2024-01-09 19:30
+Temperature: -9.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1034.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -12.20°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-09 23:34:16
+Location: Oslo, Norway
+Last Updated: 2024-01-09 19:30
+Temperature: -9.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1034.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -12.20°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-09 23:41:08
+Location: Oslo, Norway
+Last Updated: 2024-01-09 19:30
+Temperature: -9.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1034.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -12.20°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-09 23:56:27
+Location: Oslo, Norway
+Last Updated: 2024-01-09 19:45
+Temperature: -9.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1034.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -12.20°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-10 01:08:37
+Location: Oslo, Norway
+Last Updated: 2024-01-09 21:00
+Temperature: -9.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1034.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -12.20°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-11 00:09:18
+Location: Oslo, Norway
+Last Updated: 2024-01-10 20:00
+Temperature: -9.00°C
+Condition: Clear
+Wind: 2.20 mph, NW
+Pressure: 1030.00 mb
+Humidity: 92%
+Cloud Cover: 0%
+Feels Like: -12.00°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 00:12:25
+Location: Oslo, Norway
+Last Updated: 2024-01-10 20:00
+Temperature: -9.00°C
+Condition: Clear
+Wind: 2.20 mph, NW
+Pressure: 1030.00 mb
+Humidity: 92%
+Cloud Cover: 0%
+Feels Like: -12.00°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 00:18:41
+Location: Oslo, Norway
+Last Updated: 2024-01-10 20:15
+Temperature: -9.00°C
+Condition: Clear
+Wind: 3.80 mph, NNE
+Pressure: 1030.00 mb
+Humidity: 92%
+Cloud Cover: 0%
+Feels Like: -12.00°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 00:25:03
+Location: Oslo, Norway
+Last Updated: 2024-01-10 20:15
+Temperature: -9.00°C
+Condition: Clear
+Wind: 3.80 mph, NNE
+Pressure: 1030.00 mb
+Humidity: 92%
+Cloud Cover: 0%
+Feels Like: -12.00°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 00:30:24
+Location: Oslo, Norway
+Last Updated: 2024-01-10 20:15
+Temperature: -9.00°C
+Condition: Clear
+Wind: 3.80 mph, NNE
+Pressure: 1030.00 mb
+Humidity: 92%
+Cloud Cover: 0%
+Feels Like: -12.00°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 01:01:29
+Location: Oslo, Norway
+Last Updated: 2024-01-10 20:45
+Temperature: -8.00°C
+Condition: Clear
+Wind: 2.20 mph, NW
+Pressure: 1030.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -10.90°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 01:10:18
+Location: Oslo, Norway
+Last Updated: 2024-01-10 21:00
+Temperature: -8.00°C
+Condition: Clear
+Wind: 2.20 mph, NW
+Pressure: 1030.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -11.10°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-11 01:34:53
+Location: Oslo, Norway
+Last Updated: 2024-01-10 21:30
+Temperature: -7.00°C
+Condition: Clear
+Wind: 4.30 mph, NNE
+Pressure: 1030.00 mb
+Humidity: 86%
+Cloud Cover: 0%
+Feels Like: -10.00°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-11 01:44:38
+Location: Oslo, Norway
+Last Updated: 2024-01-10 21:30
+Temperature: -7.00°C
+Condition: Clear
+Wind: 4.30 mph, NNE
+Pressure: 1030.00 mb
+Humidity: 86%
+Cloud Cover: 0%
+Feels Like: -10.00°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+Time: 2024-01-11 02:14:54
+Location: Oslo, Norway
+Last Updated: 2024-01-10 22:00
+Temperature: -7.00°C
+Condition: Clear
+Wind: 4.30 mph, NNE
+Pressure: 1030.00 mb
+Humidity: 86%
+Cloud Cover: 0%
+Feels Like: -9.80°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 02:33:06
+Location: Oslo, Norway
+Last Updated: 2024-01-10 22:30
+Temperature: -7.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1029.00 mb
+Humidity: 93%
+Cloud Cover: 0%
+Feels Like: -9.80°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 02:49:02
+Location: Oslo, Norway
+Last Updated: 2024-01-10 22:45
+Temperature: -7.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1029.00 mb
+Humidity: 93%
+Cloud Cover: 0%
+Feels Like: -9.80°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 03:01:18
+Location: Oslo, Norway
+Last Updated: 2024-01-10 23:00
+Temperature: -7.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1029.00 mb
+Humidity: 93%
+Cloud Cover: 0%
+Feels Like: -9.80°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 03:04:01
+Location: Oslo, Norway
+Last Updated: 2024-01-10 23:00
+Temperature: -7.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1029.00 mb
+Humidity: 93%
+Cloud Cover: 0%
+Feels Like: -9.80°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-11 03:22:45
+Location: Oslo, Norway
+Last Updated: 2024-01-10 23:15
+Temperature: -9.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1030.00 mb
+Humidity: 92%
+Cloud Cover: 0%
+Feels Like: -12.00°C
+UV Index: 1.00
+Wind Gust: 7.00 mph
+
+Time: 2024-01-12 01:01:42
+Location: Moscow, Russia
+Last Updated: 2024-01-11 22:45
+Temperature: -11.00°C
+Condition: Partly cloudy
+Wind: 16.10 mph, NNW
+Pressure: 1000.00 mb
+Humidity: 72%
+Cloud Cover: 75%
+Feels Like: -20.20°C
+UV Index: 1.00
+Wind Gust: 23.20 mph
+
+Time: 2024-01-12 01:03:09
+Location: Moscow, Russia
+Last Updated: 2024-01-11 22:45
+Temperature: -11.00°C
+Condition: Partly cloudy
+Wind: 16.10 mph, NNW
+Pressure: 1000.00 mb
+Humidity: 72%
+Cloud Cover: 75%
+Feels Like: -20.20°C
+UV Index: 1.00
+Wind Gust: 23.20 mph
+
+Time: 2024-01-12 01:18:32
+Location: Moscow, Russia
+Last Updated: 2024-01-11 23:15
+Temperature: -11.00°C
+Condition: Partly cloudy
+Wind: 18.60 mph, NNW
+Pressure: 1000.00 mb
+Humidity: 72%
+Cloud Cover: 75%
+Feels Like: -20.70°C
+UV Index: 1.00
+Wind Gust: 25.70 mph
+
+Time: 2024-01-12 01:41:10
+Location: Oslo, Norway
+Last Updated: 2024-01-11 21:30
+Temperature: -8.00°C
+Condition: Clear
+Wind: 3.80 mph, ENE
+Pressure: 1030.00 mb
+Humidity: 85%
+Cloud Cover: 0%
+Feels Like: -11.30°C
+UV Index: 1.00
+Wind Gust: 8.00 mph
+
+Time: 2024-01-12 01:48:24
+Location: Moscow, Russia
+Last Updated: 2024-01-11 23:45
+Temperature: -11.00°C
+Condition: Light snow
+Wind: 16.10 mph, NW
+Pressure: 1000.00 mb
+Humidity: 78%
+Cloud Cover: 62%
+Feels Like: -20.70°C
+UV Index: 1.00
+Wind Gust: 25.70 mph
+
+Time: 2024-01-12 01:50:53
+Location: Oslo, Norway
+Last Updated: 2024-01-11 21:45
+Temperature: 0.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1029.00 mb
+Humidity: 64%
+Cloud Cover: 0%
+Feels Like: -2.10°C
+UV Index: 1.00
+Wind Gust: 8.00 mph
+
+Time: 2024-01-12 01:57:25
+Location: Oslo, Norway
+Last Updated: 2024-01-11 21:45
+Temperature: 0.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1029.00 mb
+Humidity: 64%
+Cloud Cover: 0%
+Feels Like: -2.10°C
+UV Index: 1.00
+Wind Gust: 8.00 mph
+
+Time: 2024-01-12 02:02:09
+Location: Oslo, Norway
+Last Updated: 2024-01-11 21:45
+Temperature: 0.00°C
+Condition: Clear
+Wind: 2.20 mph, NNW
+Pressure: 1029.00 mb
+Humidity: 64%
+Cloud Cover: 0%
+Feels Like: -2.10°C
+UV Index: 1.00
+Wind Gust: 8.00 mph
+
+Time: 2024-01-12 02:04:25
+Location: Moscow, Russia
+Last Updated: 2024-01-12 00:00
+Temperature: -11.00°C
+Condition: Light snow
+Wind: 16.10 mph, NW
+Pressure: 1000.00 mb
+Humidity: 78%
+Cloud Cover: 62%
+Feels Like: -20.40°C
+UV Index: 1.00
+Wind Gust: 24.60 mph
+
+Time: 2024-01-12 02:12:55
+Location: Moscow, Russia
+Last Updated: 2024-01-12 00:00
+Temperature: -11.00°C
+Condition: Light snow
+Wind: 16.10 mph, NW
+Pressure: 1000.00 mb
+Humidity: 78%
+Cloud Cover: 62%
+Feels Like: -20.40°C
+UV Index: 1.00
+Wind Gust: 24.60 mph
+
+Time: 2024-01-12 02:14:23
+Location: Moscow, Russia
+Last Updated: 2024-01-12 00:00
+Temperature: -11.00°C
+Condition: Light snow
+Wind: 16.10 mph, NW
+Pressure: 1000.00 mb
+Humidity: 78%
+Cloud Cover: 62%
+Feels Like: -20.40°C
+UV Index: 1.00
+Wind Gust: 24.60 mph
+
+Time: 2024-01-12 02:16:26
+Location: Moscow, Russia
+Last Updated: 2024-01-12 00:00
+Temperature: -11.00°C
+Condition: Light snow
+Wind: 16.10 mph, NW
+Pressure: 1000.00 mb
+Humidity: 78%
+Cloud Cover: 62%
+Feels Like: -20.40°C
+UV Index: 1.00
+Wind Gust: 24.60 mph
+
+Time: 2024-01-12 02:21:05
+Location: Moscow, Russia
+Last Updated: 2024-01-12 00:15
+Temperature: -11.00°C
+Condition: Light snow
+Wind: 16.10 mph, NW
+Pressure: 1000.00 mb
+Humidity: 85%
+Cloud Cover: 62%
+Feels Like: -20.40°C
+UV Index: 1.00
+Wind Gust: 24.60 mph
+
+Time: 2024-01-12 02:23:33
+Location: Oslo, Norway
+Last Updated: 2024-01-11 22:15
+Temperature: -2.00°C
+Condition: Clear
+Wind: 3.80 mph, W
+Pressure: 1029.00 mb
+Humidity: 69%
+Cloud Cover: 0%
+Feels Like: -4.20°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+******************************
+        Weather Report        
+******************************
+
+Time: 2024-01-12 02:35:18
+Location: Oslo, Norway
+Last Updated: 2024-01-11 22:30
+--------------------------------
+Temperature: -1.00°C
+Condition: Clear
+Wind: 4.30 mph, W
+Pressure: 1028.00 mb
+Humidity: 69%
+Cloud Cover: 0%
+Feels Like: -3.10°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+******************************
+        Weather Report        
+******************************
+
+Time: 2024-01-12 02:40:02
+Location: Oslo, Norway
+Last Updated: 2024-01-11 22:30
+--------------------------------
+Temperature: -1.00°C
+Condition: Clear
+Wind: 4.30 mph, W
+Pressure: 1028.00 mb
+Humidity: 69%
+Cloud Cover: 0%
+Feels Like: -3.10°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+******************************
+        Weather Report        
+******************************
+
+Time: 2024-01-12 02:44:50
+Location: Oslo, Norway
+Last Updated: 2024-01-11 22:30
+--------------------------------
+Temperature: -1.00°C
+Condition: Clear
+Wind: 4.30 mph, W
+Pressure: 1028.00 mb
+Humidity: 69%
+Cloud Cover: 0%
+Feels Like: -3.10°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
+******************************
+        Weather Report        
+******************************
+
+Time: 2024-01-12 02:48:30
+Location: Oslo, Norway
+Last Updated: 2024-01-11 22:45
+--------------------------------
+Temperature: -1.00°C
+Condition: Clear
+Wind: 4.30 mph, W
+Pressure: 1028.00 mb
+Humidity: 69%
+Cloud Cover: 0%
+Feels Like: -3.10°C
+UV Index: 1.00
+Wind Gust: 7.50 mph
+
