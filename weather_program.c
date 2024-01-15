@@ -7,12 +7,7 @@
 #include <signal.h>
 #include <unistd.h>
 #include <sys/wait.h>
-
-// Struct to hold HTTP response data
-struct Buffer {
-    char *memory;
-    size_t size;
-};
+#include "buffer.h"
 
 // Struct to hold processed weather data
 struct ProcessedData {
